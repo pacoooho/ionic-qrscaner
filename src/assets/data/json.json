@@ -1,0 +1,2106 @@
+[[89,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/sxq4NAFUrrAOJOc3CSEE",
+        "fields": {
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.5"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "disabled": {
+            "booleanValue": false
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090250.jpg"
+          },
+          "order": {
+            "integerValue": "0"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T18:05:50.153Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "description": {
+            "stringValue": "Patatas Bravas especiales Distinto"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-07T11:41:19.374Z"
+          },
+          "name": {
+            "stringValue": "Patatas Bravas"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090250.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=oiDi68aKFEbeMmNNHR7igFDbyr1aAXls8J07m2fLYvtJ4z4oLiTLxzWFc7zARBCKRP%2FxA9lK0XrUa7j5u9Ah90TgOYKH1IRwXoKy0iZ4jayOD1gYWQ5d3n4HMbaNefXWtbo3wJyKKZMUfmTCTwotyAyKChEBKx9QM5SL8%2BL%2F8FD8pMoeW9zdp3eZQOoZCN99UmLeOGL7cBYk%2BoVqo7PlSbV6YSBcg%2BbnD8zUYaysvOfKXuj4Ccr551u%2Fiqo0XYha4b1QuRo3jYy5S6oz8ncq6aThwOWX5bw%2FsKUHsyr%2BQ38EL3B8BmzmYbYWDavyYCORrv7C6IE7ORJ6cs%2FW%2B972cw%3D%3D"
+          }
+        },
+        "createTime": "2020-06-07T11:41:19.407599Z",
+        "updateTime": "2020-06-10T18:05:50.182079Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[90,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/E0rxbS2s77rafmbgkHx8",
+        "fields": {
+          "order": {
+            "integerValue": "1"
+          },
+          "name": {
+            "stringValue": "Patatas bravas con chistorra"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T18:06:11.748Z"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:41:42.569Z"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090256.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=m87S6ai0n8x34lINTyyz70nH39%2B82aBMhAh7gZ%2FA9XGp4rtkxae8EKSxyU7aawSOc2zoEGGJrOM%2B0gZeRqK1%2FpZOB5%2BRiohbFP5xl5C2ZcinjrCCfbZdpmfprmN99PxXwQ3YM%2F1x96WBRMDzJk0KXNbahhETXLWEk21zI2465bBgXOU4G8mWTuIu9RmbKWAJQBkr%2FMXfU1E4uTfQU8fBVEXaUD9oxuh5RYWVmwaWsqyUAXljUEo96GMvw3zHIg01GH9e4X5pD52hPoVf03TpuMbeLcMbKe3QA2uVwuK8dO1VQ3rKQq2KAu%2FsNYPAKqcbix%2BrScidlX923j7H7N2u9Q%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.75"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090256.jpg"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "createTime": "2020-06-09T09:41:42.592063Z",
+        "updateTime": "2020-06-10T18:06:11.777279Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[91,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/UvaBJxDGuKlvwPOPIZwE",
+        "fields": {
+          "name": {
+            "stringValue": "Queso de cabra con tomate confitado, cebolla caramelizada y tostaditas"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "6.00"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:44:37.509Z"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090246.jpg"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090246.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=OL7WTAjEFOsNobxsv9650gaxD9xa%2FnHzgcERuka29pk%2FuTpUvemJ0E65ms%2Fs0sCs6etgVqkQPP8YEvpcWWnukcoAEm33RqUNQIiULhdc6fjewzPBlvUj5ZDvq8uMZl%2FOWOqhEjS3QCLxFtoeafAPKaQRhCn2LQRWyLHJWvyUx%2FS2ltaxl%2FEij5BN0k1mzrTFD2ncaqsiw3oQMuanEbNIIHMQq%2FRJFHNvfbIz7KFak6nm7DyJvhx5i0DblrPifbWLzeFrfEBinnFksg0PC9ARsluwixZ8Dv2mEtx3Ix86A7jDvK1%2B3amMxC%2F7ECZMXuzGlGUL8l2cfKOrrGcBRhF5gA%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/lacteos.png"
+                      },
+                      "name": {
+                        "stringValue": "Lácteos"
+                      },
+                      "id": {
+                        "integerValue": "7"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "2"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:06:17.673Z"
+          }
+        },
+        "createTime": "2020-06-09T09:44:37.548031Z",
+        "updateTime": "2020-06-10T07:06:17.730591Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[92,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/kmGT8Wkqm9wp4xcHOiX5",
+        "fields": {
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "6.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "7"
+                      },
+                      "name": {
+                        "stringValue": "Lácteos"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/lacteos.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:34:22.621Z"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090301.jpg"
+          },
+          "name": {
+            "stringValue": "Papas beicon queso"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:47:42.875Z"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090301.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=dalTsNlGQvuIDyaSjHKIE6OvItP578TyJh5o%2BJ1Lrbc36G3AlURydFxvmxYrwSbAfBDbFp7WeWitPZezl4%2FYq3zF0I09AQOkcZCvNMU%2BJ%2B16rZQ4ZJU%2BgIOye022aPM5Qf%2FbyT5ohzD0ZH0IZEq%2BB2uSSqiSclJYpXZ4Qn6TKnFTF4X1ydamQ52IpmrzW690TYe39QqlNSopur7vY%2FIn%2BFM%2FDsnTc22tDl7P2n7w1myiqIM1CsEid0sT8qGooSw7f1A1BL9Lswh1G3%2F6m7cv8lKniTp5eNrNhUqVY7BhWa1ZeylL1M%2BQsmD5NsHCNwTK57hbLC8hy04hAJJ7jL0kBw%3D%3D"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "order": {
+            "integerValue": "3"
+          }
+        },
+        "createTime": "2020-06-09T09:47:42.924015Z",
+        "updateTime": "2020-06-10T07:34:22.665135Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[93,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/cQMrqUAvMgCn5oIWRfEN",
+        "fields": {
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090307.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=NPUk2BKjjdhJEUWktKOJvAgMJBzkKPpqmxUfxWQumY%2FoL9bKyHVQXdcxG%2Fw1VfQG7COlpVkWB7b%2FGFeLdiDRGf8tMNb8RIyup2VdY1E9t8lCaqZc1dJzDb%2BKWQ25epG5ZEDrMCtGT74yNCkyvQf58DaU1ZXRrGyaOd0ITUj5l1nU5hIBDLKGak8caAZKLrpZ9EAsP7JYTo6%2BGYlet4qzT1HnsJkhVhBySATxHnjhzFlSuE4nhISsmBPd2HHQQANtUmv82GaN1%2Bmc0AyzjsBwoe1ASmLCLYxWJ2INal3Dge3K7ZWyUi2Jzf3yCBVnF2PxYWUwpswfkabr3OZ67b1grQ%3D%3D"
+          },
+          "name": {
+            "stringValue": "Tortilla de patatas"
+          },
+          "order": {
+            "integerValue": "4"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:36:44.341Z"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:48:27.846Z"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090307.jpg"
+          }
+        },
+        "createTime": "2020-06-09T09:48:27.868287Z",
+        "updateTime": "2020-06-10T07:36:44.380015Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[94,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/VyYNRNaJNuxYzMSYAae0",
+        "fields": {
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "6.00"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090312.jpg"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090312.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=Dq3Qi97IPpXZMYAuQe4k1Ut321o0wpzJCjzWzFDv3sQNQLXW1C7f%2B%2FwZeeUDsYnfz7%2BZ90PBe10RQJotK%2FEXb%2BiWes2u%2Fi89zFoqXEnH8Pd10fEZTGnqr5ED2aGj4g3CvukecUha%2Fz3nSkLgp85CMFLgyMjMSIJWJDJrNjuhSMuKekE3IXfofh7g1RXYvqh5T0FeWroOvBF6XbnZTUTja8JGQFoz6gxEuS9URCa8M4F3lYufC90HMEDDbKd4ui02d50gI1uoALft4Ip98IGrvOIQCOmZ4x%2BqTLMpuOnQ%2FF1%2BsYnssTzdCAFh1qu%2F1%2BcMuApA05oXbJWQ3asrzcWQAQ%3D%3D"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:37:38.537Z"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:49:15.610Z"
+          },
+          "name": {
+            "stringValue": "Huevos rotos con jamón "
+          },
+          "order": {
+            "integerValue": "5"
+          }
+        },
+        "createTime": "2020-06-09T09:49:15.632895Z",
+        "updateTime": "2020-06-10T07:37:38.569711Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[95,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/aDbsrF8Cuv4a7CjfTL6h",
+        "fields": {
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "6.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "Screenshot_20200610_094001.jpg"
+          },
+          "name": {
+            "stringValue": "Chocos"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_Screenshot_20200610_094001.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=UjQkECXAIgtgKAnK0TlxREmDEyzTKmXH6ask4CXxC%2BcWW8d05UmFSMr5I%2BZne5WDxgdp5sb6oUZxNjCpd2aifh01Wf%2BK0Ygj3EJi%2FbKxoHWecc5HCzTTKFSVXbI7N4hZ4WGm4VsVXvfmEvG6frzM1D3u%2Blvtd%2Ba8C%2FEqWLHgZukMtLHcnXKnEplDMGOORLk0aXSMbGfjUiY4wJyKrtzFyZqgsuDusIn%2B6QSD%2B4PhTU2ud3XaHOGnkX8nVC78T8tjjjxPuvM4%2FQzCLTHX4A0U3UWnfi0dDbwQ52dZoeUpeoImBeLK7cNV22EjEJ6hmceP71NIBSujYPadm1IDsAzmIw%3D%3D"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "6"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:40:27.286Z"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:51:15.054Z"
+          }
+        },
+        "createTime": "2020-06-09T09:51:15.079439Z",
+        "updateTime": "2020-06-10T07:40:27.342767Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[96,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/u9Zq3uHmOPx2grYhGvm0",
+        "fields": {
+          "image_filename": {
+            "stringValue": "IMG_20200610_090317.jpg"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090317.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=JBaqIJx9jpkQeE7u5IYxtVWfpkBG33klEJvm0RO6nfFRRMftPbY93w5XXauAoXLS4a0T4DvCkYCC4P%2B7LXkzroVBrmDyFrm%2F%2FeEu0EIbwrnewBdPnY%2BSbSrlltH0Y1yJB%2B2RkfXCawQo2NxXlbSRrAorpJF9u6%2BBz1WCi5ktavVfMXZ5nsGeAQ2RDFFh4Ka5ZGmSVan8IJnyZg9cZ4MSieJHNlPfZC2QvDqPcm4BTs%2Ba9XuLOjTqMgwvP31mDquTw5ROnGaR8lbKMxFT8iVDMH1BglqEiKwD9DKNRwx0YAFoTN6j6UTY5zrB9yOgaNBKNAD2YzmdBEEcW9cTU9pD5g%3D%3D"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:40:54.684Z"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "6.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "7"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "name": {
+            "stringValue": "Calamares a la romana"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:52:07.776Z"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      },
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          }
+        },
+        "createTime": "2020-06-09T09:52:07.786719Z",
+        "updateTime": "2020-06-10T07:40:54.716847Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[97,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/M4IHQY6OeZ0YJoX7RjNn",
+        "fields": {
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090322.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=JmCRftB8wKvQ1x8znYBOQjiSLv6vvqYoYnQnuiNce%2FtEGq18mXsJuh4Mb9bioLz%2FenHuPzx4a3LpXyjwcPTyfl5NtSdfu743XDHxT0bpM%2Fm3B1GvNforWC9xSe2F5ihCm0DOUIEQbvTiu6EeQzTmsEbNfS%2FkZYjmVEbUiM0eyx92TLAPIloHRAx8D4EZQ7d5MsZsxeoUzsgzkm6BDPkDhI1LD9%2BaTlHj1E3H3nH%2FggmvvxlIh2m0wTyW5XXVhXCw0LaqVRSDg%2BNMwqZZ6yQML6j10GuIqtNTxScKB7POlQr6PANRs%2F558CGXIZx0oIyYIHUoHs2TPROCAB9CXj7S%2BQ%3D%3D"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090322.jpg"
+          },
+          "name": {
+            "stringValue": "Calamares a la andaluza"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:52:40.142Z"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "7.00"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:42:04.549Z"
+          },
+          "order": {
+            "integerValue": "8"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          }
+        },
+        "createTime": "2020-06-09T09:52:40.182767Z",
+        "updateTime": "2020-06-10T07:42:04.597151Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[98,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/moKVyIID2wvvPJ7m0PGg",
+        "fields": {
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "name": {
+            "stringValue": "Chipirones a la andaluza"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      },
+                      "id": {
+                        "integerValue": "4"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "7.00"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090332.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=dqCg5PtECDC5Wo%2Fx9IIo0In%2FeF7nix5VZcKWRojzznsLGlA7lYenDdPx4QO%2BdQvR3wmIVjWNQs0bCkB5k4tAREQA1bzYLeJkHkMbjIpD11EbOvYqBtgrDCo5DACN7HVsC%2FVR1yuA730ocroSP9qRYkHvVgmfpeqx3xxrM8WptsFUt%2Fvi9i2dREuyl12F7KmXsqFcUn%2FZUNx3HLJlfd6xav4VtyB5Ma9olCf%2BdMleJOBV%2FhqIbPoCS%2BhBQ%2BNJ4KrL8VcuTcyIgQN0tN98orLBHG6Xg3znn2BPLp77%2BKvqQTu9JMsFH8LPqaZBDwgZuBC4o5t2nvbmb%2FZcFaYTe6TT9A%3D%3D"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:42:34.754Z"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090332.jpg"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "order": {
+            "integerValue": "9"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:53:12.026Z"
+          }
+        },
+        "createTime": "2020-06-09T09:53:12.058511Z",
+        "updateTime": "2020-06-10T07:42:34.774399Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[99,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/BHORMHN39SkKF6w3dVyo",
+        "fields": {
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "7.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "name": {
+            "stringValue": "Rejos a la andaluza"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:43:31.410Z"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "order": {
+            "integerValue": "10"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:53:35.990Z"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090336.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=nZwTE3f61pK057T7pAmlH%2FqEWTMSp1ogq%2BjmTufA1pj6dBayo5G0tcEg83z5tN99%2FOIw1wPtif9EtMfCVqhhxm0RJz%2BCuPyntuY8FSqZ6n3NRmQBiw%2FLK1zIMYyPVDxDnFCFsV37WtRbopQDSYAOfkCd1rINKipYjAVGFyQP8pZZrT7go7KE0oj0Y1cMxqevbH02LAVagSPunZ6Z4ifrbHwMCfk8%2FDQwv6ntJiKDV1INHVDRiFKo5%2BpBqXZheUU1xAOOzlowW%2BD%2FgHw1dMYl0tMyYIfSl6yzUzjgI6nJbFpzJRmhXmVc8IChBDRDZPdAXnbBTe%2F3zxjvAImGKlypPQ%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090336.jpg"
+          }
+        },
+        "createTime": "2020-06-09T09:53:36.024063Z",
+        "updateTime": "2020-06-10T07:43:31.445743Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[100,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/EqKYwe4OMPFH4a1EIEWs",
+        "fields": {
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090327.jpg"
+          },
+          "order": {
+            "integerValue": "11"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "7.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:54:12.037Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Pescado"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "name": {
+            "stringValue": "Gambas saladas"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:43:01.059Z"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090327.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=kfnwR1r%2FZK3Slg9r6FLt8c6VcYP6B7m226D5dtNKaZ35l5Cm8IYwv5%2BTcFTK91OzCussN54ytCwc%2FCXfSKNJ8mSYChPIODQpYTPa1soIUF42ok3ZSbc2Lv1r4gC8HdWk0wFc%2F%2BoinuY0elqsIp82Z0v2%2FV5E3PtSI8PSi9YCARqJWxVypM6eInpKQXreFVdTHgSXyPxtEmJvD7NseZ9bN4hcWANNbjPI%2FP574DMPD%2FbyDllg%2BRuhdnnr54wwXKgeF65uED7UBYOFtu26657wZ3iXSsuubTgFXJzdlCadtCQe71R0ayij%2BnCK4BlI1Ng9TsLwk5f%2Fm8qYCXtaSUfHsA%3D%3D"
+          }
+        },
+        "createTime": "2020-06-09T09:54:12.058207Z",
+        "updateTime": "2020-06-10T07:43:01.093711Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[101,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/M83CM1XiFk6cn3qdaG65",
+        "fields": {
+          "order": {
+            "integerValue": "12"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "7.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090352.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=elQe87a7XbjkCz%2FG%2FLAJVekB4AT0%2BHHwTJmb7yCs0QCVw3lneF7rHvvOxLtVCynDzhQPkIXXg5oB5c%2Ba%2FuSzUv9%2BJRNnwodaBtWGgUiP4hY4XoXUfaequyvqYPn9mwdsvix0CAxv6taUsvmTvLriEYWQOYwx3FwQgyQuqYQbNc%2BZTR%2Ft1q%2FRUUBy2pkQVFIVUqIyNEb7cyNl1MiTmhK%2Bv7Gy8zwGj3fORbz5nC2Db5oRDLRrkQNNio%2BFYRR1zQs%2FhOxTItDa13qHzu542jobUvabybMaNuu2%2FgPvSxSTH09KZyP1rpa5ZyQlfpZS1Ip3fJtzPMDtsDM0I7H26c5%2BhQ%3D%3D"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "name": {
+            "stringValue": "Mejillones al vapor"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:54:46.387Z"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:43:58.888Z"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/frutos_de_cascara.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "8"
+                      },
+                      "name": {
+                        "stringValue": "Frutos de cáscara"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Moluscos"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "14"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/moluscos.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090352.jpg"
+          }
+        },
+        "createTime": "2020-06-09T09:54:46.411071Z",
+        "updateTime": "2020-06-10T07:43:58.935551Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[102,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/X74KXYHrtRETp2EKOoTp",
+        "fields": {
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:44:25.453Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "name": {
+            "stringValue": "Pinchos morunos"
+          },
+          "allergens": {
+            "arrayValue": {}
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:55:29.199Z"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "5.00"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090340.jpg"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090340.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=N1k00hHtuf4%2F8VThqZUE45uEJU4S8qnAgS9TB5%2BYVQkReQ0nELfNqSRma7MBNzn0LnJce%2BwMeTcsRTD8cXS6FVyW36k1ImatcYHo6U%2F8tdktb6m5FDddzAo3eoFGn8%2F7ICzddg34FwMT%2Fekhg4xNaIjZxWl1TaA6cthuR%2FvmF97Hg7UQohyJYJZf6FQNc0KVilbVPJAGp3820H2r%2B39Wcild1efse3FiuOys2Ju%2FxtGz5cDF7fDat8VAgxZkJS4tmbEA3NYy9rLojKhZVazGoumjYYywcoTZoGTNle8eIm%2BgHSGX0lzXgK23LqzcZ930lZ4n8QdGRZZ0FtMXx%2BxV7w%3D%3D"
+          },
+          "order": {
+            "integerValue": "13"
+          }
+        },
+        "createTime": "2020-06-09T09:55:29.228063Z",
+        "updateTime": "2020-06-10T07:44:25.507679Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[103,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/RJE8twqmEFUOAHAcDri6",
+        "fields": {
+          "allergens": {
+            "arrayValue": {}
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "14"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090358.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=dKGnqS1%2F84gk75FnM9fRcdMafSXJZM1Lr6Kyqxpo95s6ccSJ2XUNKP2%2FuTVClf9STg%2BTRYqD53hHm0QAcnxVQ2Uj29ybC6QhLBzfnk4mCuSky2PCtKFGhN19GXhMianj43BcGRnpFuqxijvlQOyuc4giJTfKKhdN7GP2oNmKujB2cFJVe%2BfWLL7gZkeWrQgIVe8puO%2FMy%2Bfhbrbi5Pkrx3dlh%2F586ttO15boPgDCpW%2Fu1BLbdHlSHMBKy3eQwElVOWKw29kX2Sp9ztdiZbQRTtDacRJaDK%2F8Np2nIujAR5PWl7GIsj0EUtn%2Fc0Qe0h%2FF84HrSPiTLnxQxtRug05tKg%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090358.jpg"
+          },
+          "name": {
+            "stringValue": "Choricitos al cava"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:49:22.364Z"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:56:18.833Z"
+          }
+        },
+        "createTime": "2020-06-09T09:56:18.852687Z",
+        "updateTime": "2020-06-10T07:49:22.420287Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[104,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/2Bl33mtgbLaeuVPKorEc",
+        "fields": {
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090349.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=A1xYIIdxmkfRKogo84GlvY3uf1GId%2Bhcy3GTpZVLVBNvUxOMJ%2Bcft4AkxjcmYBG4BRlZcPoP6r8j%2FJjNgsyW8QbX9RBr5%2B05TN3jvBIO70V0D3eQJuZCJ3cVeM%2FFNTuirFKJiVACwWmru4Beggne3Y41%2BvJHBfet7Tsnvew7J5n6bN6A8sS8D%2BjoJgBu5l5pfxROT%2ByOH1%2FDvTuByBkPe9qIrb2Y1X6Ek7lKuBCo0%2FjYq48zEx7IAbweIjHzSoVravFPXLKXpK2%2BpVCb%2FJMWXh6K73Qwv7WtGTxotF%2Fcuny8Z9BSKjTGQH38oc%2BdNQfp%2FUlbr7X7wQ4scg6RuFMgvA%3D%3D"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "4.25"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "name": {
+            "stringValue": "Altas de pollo fritas"
+          },
+          "allergens": {
+            "arrayValue": {}
+          },
+          "order": {
+            "integerValue": "15"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:49:51.325Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090349.jpg"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:57:04.034Z"
+          }
+        },
+        "createTime": "2020-06-09T09:57:04.056559Z",
+        "updateTime": "2020-06-10T07:49:51.365487Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[105,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/zhnyYUW2FVDG3AmFB4DA",
+        "fields": {
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:50:22.535Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090345.jpg"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090345.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=m2Z%2FU5d6e59glXJ6eeyG44pZRZd84bghvhQSej42Wi0uyqNbN80VXwfaAMyDW0ys8PicQV0XAtkep8Q77FcxeC4I9HgZOA0Wkv28NNf5GxSF1lTyceGx7OQf2D67TPiXnnIzwt7kAPwyAUjB%2FQGA%2FR0nBTZTtb1Jzo1bkdx85sRPspyYMHAmwc5UFsV18FOo88%2Bj9ffAHHkNkAGvSxAxrwRzeJmQSmMRSF9jn7MJMmcGwEw%2FlhH2FHGNJy13My9ki%2FEIhIaxyRaA2y2c%2B5gBDz1%2BBpTfqkqFfC4GWBsBspvLE%2BkVCBKOle98dTHqOesr3djF74c6dbf4iXBBv3M7Yw%3D%3D"
+          },
+          "order": {
+            "integerValue": "16"
+          },
+          "name": {
+            "stringValue": "Alitas de pollo picantes"
+          },
+          "allergens": {
+            "arrayValue": {}
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T09:58:23.190Z"
+          }
+        },
+        "createTime": "2020-06-09T09:58:23.209855Z",
+        "updateTime": "2020-06-10T07:50:22.564815Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[106,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/ID99RNVmCp1uYhs1ogH5",
+        "fields": {
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "order": {
+            "integerValue": "17"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:02:53.890Z"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090407.jpg"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090407.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=WIVM8D7Vy81OKrc7ylaVpzRzYX3FLRHl2vbaAm10yKaKa00wxPBAsFsG5%2FPjc053%2FhSF9Nf1oSjvUoA40mYWwviJTgg%2BmS8M%2FxVSnOd1knnf%2FVUZkidUDiHL9u3bEaPbJ9B6jYW8cltbzw5NGi0G0Fgr2690qw8kcpLN7o5COHNTEiY6IKzcLijyngOEqmbhmOfQSvDqRlUjCmjmU%2BJD%2F1SCzw5WaMoJWhz6rfmLaqijTcTtccIJ99aLR5RPJnHANRdC6boKtDJMh3OSIqeeZEuFHXKbA1%2F9seEQlCjN%2FWzopwbYAnkiLQXOxEEGbdpRfvfQczH36MOd%2FNQNK4PrkQ%3D%3D"
+          },
+          "name": {
+            "stringValue": "Croquetas"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:50:49.785Z"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "name": {
+                        "stringValue": "Pescado"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "description": {
+            "stringValue": "Cocido, ibéricas, bacalao y merluza y gambas "
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "5.50"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "createTime": "2020-06-09T10:02:53.927119Z",
+        "updateTime": "2020-06-10T07:50:49.849103Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[107,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/I5ybt7lOdgkDLyTPVq7r",
+        "fields": {
+          "order": {
+            "integerValue": "18"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090402.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=WaKDFuYMxhKdB7LIgKhgeJ9yFRbd%2BdQYWnGnG%2BmTO3EtmVJyJc1tf6QT5NQHnqvz3GHqWqZyodWbO0ZgiZvG0agJaIEmv8CrfZKjwQTTMp3OWLNrZhh1or2cRfiaOJu7%2FzhHRjR7mA68JGLrhKjjoKMzYYUGnD16vyjzBBPV0v7Q4XknGEFvW4dD0aoWbubJYcgs2yr4IEsCyc5H6h3h2QatiayiFQ78Rp1Szr9nxTTj7gcVBi8wGEujbsqrEMmyVpeCXBX5VIaUz3Wm3o7VpYCpIBzFUvDYdv%2FQHJrRnPrZJ098W8k21U%2FRc86bY9TLzlieEhBEH8UljFP%2BOA42Jg%3D%3D"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:51:17.119Z"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:03:16.447Z"
+          },
+          "name": {
+            "stringValue": "Morros"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "4.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090402.jpg"
+          }
+        },
+        "createTime": "2020-06-09T10:03:16.474815Z",
+        "updateTime": "2020-06-10T07:51:17.171535Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[108,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/E4a6i7z1wRpMRjxIa45R",
+        "fields": {
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090424.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=Ovic6y3QdYER6SLlZNyDAqj3%2BOiuBRUhEIa76QoudYxHOM63JDBmwIW6mW43mgZPusBgKl5DOd6i5SwMp7knJbCwnO3QlYQXaFDV9rw7IdV6GwyphbzrFK5MlyoKsT%2FeNDTbpQj5mqcOeLfF96xmQybl1uffKKxP%2BAU3LtM41V8sg5zk9yfUcoZDdiys1Mj0JGqOTPQJ2esAjm9C2zEh8W5zJ2kwxnhkMNiQvo6iE51rscbBYFmvL0jLOHdXKa3RYpZJmxc%2Brlpsk%2B15o0F051juOUx8vtwjygjYrerDMYgJquma7PeXDsu93VDt6I7hqX8dcFgTTrZpY6RltORP2Q%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090424.jpg"
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:51:43.747Z"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:04:06.285Z"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "7"
+                      },
+                      "name": {
+                        "stringValue": "Lácteos"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/lacteos.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "19"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "6.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "name": {
+            "stringValue": "Queso manchego o jamon"
+          }
+        },
+        "createTime": "2020-06-09T10:04:06.313903Z",
+        "updateTime": "2020-06-10T07:51:43.774223Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[109,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/gkbw6PxX3p1yBQfDDALk",
+        "fields": {
+          "name": {
+            "stringValue": "Berberechos lata"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_IMG_20200610_090422.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=U1OtQq%2FDck%2FJtKrTLber3w16yc4PlW2r3b6y67TLJyy42tMu8MJMC33%2F0GUtyam0pfkSxlmWlFMHas1T%2B5sWtIfm27XdwfES8GRB4elwH72%2BGe4kg03rH8PML%2B9hRrtv1mdD4JDNXmoaNCX7as2qfLsSJWy1l1Fth4i6ZUCijdIi71HiEg8vcY9cvkjOO%2FnipLhayWFg3st7Ce25kAqaFQFcCncMO%2BwreKawwbj9zxjAbFA1RgWneNcrremOkoIuFtPBf3kWCN7gwE6bsY9dzZMYedXs3LaLp0qEJTpSMkQSyNjzePPuLEz2n5t%2BxdTfictSvn9C%2ByU9jJrjBt0swg%3D%3D"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:04:42.129Z"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "price": {
+                        "stringValue": "7.00"
+                      },
+                      "name": {
+                        "stringValue": "Precio único"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "14"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/moluscos.png"
+                      },
+                      "name": {
+                        "stringValue": "Moluscos"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:53:46.841Z"
+          },
+          "order": {
+            "integerValue": "20"
+          },
+          "image_filename": {
+            "stringValue": "IMG_20200610_090422.jpg"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          }
+        },
+        "createTime": "2020-06-09T10:04:42.155519Z",
+        "updateTime": "2020-06-10T07:53:46.899375Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[110,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/bEb5x4uEROCKIf4FVk0o",
+        "fields": {
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:55:33.448Z"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "2.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_Screenshot_20200610_095553.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=TYzjIVr%2BviKZM6QAtDNBnhI4yHjtb1CqL32PKB5yci4OspPe%2F7zQkpxUsbhrY5wir3Y%2BPUTctPxWtuMu8tUkB06yO8sr3PRxbQ55xkpmsnIc0y6LaLVIwHrwcHd3htUFQLBlA6iuhliyBYnPFfDTBhGPA6jsNQQpAb0YlFi0rS1u55VQGtovI5br6ExJhJtyseI9q8WQz%2BUnTZcWea9djQrIi7QGfPlKpYNvJ0RwISMFPimjK9jQwNmtwVCVIvTAXS3uV5trLmK6mM9yCHyA4JgiHkcNdAyOe67imghrkxKzb8yrghodeAajq3pM5Tui8paNadh19WGfP5uBEqrD1w%3D%3D"
+          },
+          "image_filename": {
+            "stringValue": "Screenshot_20200610_095553.jpg"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:47:13.911Z"
+          },
+          "name": {
+            "stringValue": "Bombas"
+          },
+          "description": {
+            "stringValue": "2 unidades"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "order": {
+            "integerValue": "21"
+          }
+        },
+        "createTime": "2020-06-09T10:47:13.929023Z",
+        "updateTime": "2020-06-10T07:55:33.505503Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[111,[{
+    "documentChange": {
+      "document": {
+        "name": "projects/bakarta-kustovi/databases/(default)/documents/menus/2OkDrSauP6BhPQCooKGm/dishes/LwC85N18LyTxn79Lxs2Y",
+        "fields": {
+          "updateTimestamp": {
+            "timestampValue": "2020-06-10T07:55:44.850Z"
+          },
+          "description": {
+            "stringValue": "6 unidades"
+          },
+          "createTimestamp": {
+            "timestampValue": "2020-06-09T10:47:43.062Z"
+          },
+          "category_id": {
+            "stringValue": "exKV0LUyZCox7wyKCDNH"
+          },
+          "image": {
+            "stringValue": "https://storage.googleapis.com/bakarta-kustovi.appspot.com/images_products_menus/2OkDrSauP6BhPQCooKGm/thumb_Screenshot_20200610_095514.jpg?GoogleAccessId=firebase-adminsdk-sjvd0%40bakarta-kustovi.iam.gserviceaccount.com&Expires=16731014400&Signature=ecFup9bRP3SOZ5hvxMjFFKS4tqEylrTivNRx7iDZDLYYzxSmWreAN6fB5dFI1QwRAv9W34T%2BSvwRh36dXHyv6NEwDL14jexb%2F3SjK8ZUPJ5IWstcbfWTZ0PtXOokwo10GlLYtJrIc6dRqaaRdvGfEYotVdjs9s%2FE8l7Xqyyr010KeJ50I8LojVfDtnRIXsMwsNO7fOSB9oTpchFoHwdu4AgeHtcv5jqEwUk9KKhvxWKHYp9%2FMMX47VYrjFrz0pxUUdCFyGsBte%2F9p%2B2HnGDeThGJxrpzHpVF5oI%2FYSYuNepqXM6WJKvEZm2IX9biAGbv6yRVzakzD4ba1HVbk96qZA%3D%3D"
+          },
+          "num_rations": {
+            "integerValue": "1"
+          },
+          "image_filename": {
+            "stringValue": "Screenshot_20200610_095514.jpg"
+          },
+          "name": {
+            "stringValue": "Mini empanadillas"
+          },
+          "allergens": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Contiene gluten"
+                      },
+                      "id": {
+                        "integerValue": "1"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/gluten.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "3"
+                      },
+                      "name": {
+                        "stringValue": "Huevos"
+                      },
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/huevos.png"
+                      }
+                    }
+                  }
+                },
+                {
+                  "mapValue": {
+                    "fields": {
+                      "icon": {
+                        "stringValue": "/img/icons-allergens/pescado.png"
+                      },
+                      "check": {
+                        "booleanValue": true
+                      },
+                      "id": {
+                        "integerValue": "4"
+                      },
+                      "name": {
+                        "stringValue": "Pescado"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "order": {
+            "integerValue": "22"
+          },
+          "rations": {
+            "arrayValue": {
+              "values": [
+                {
+                  "mapValue": {
+                    "fields": {
+                      "name": {
+                        "stringValue": "Precio único"
+                      },
+                      "price": {
+                        "stringValue": "2.50"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "createTime": "2020-06-09T10:47:43.094623Z",
+        "updateTime": "2020-06-10T07:55:44.887519Z"
+      },
+      "targetIds": [
+        8
+      ]
+    }
+  }
+  ]],[112,[{
+    "targetChange": {
+      "targetChangeType": "CURRENT",
+      "targetIds": [
+        8
+      ],
+      "resumeToken": "CgkI48fyz/z46QI=",
+      "readTime": "2020-06-11T04:56:52.661219Z"
+    }
+  }
+  ]],[113,[{
+    "targetChange": {
+      "resumeToken": "CgkI48fyz/z46QI=",
+      "readTime": "2020-06-11T04:56:52.661219Z"
+    }
+  }
+  ]]]

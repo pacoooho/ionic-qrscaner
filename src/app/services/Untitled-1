@@ -1,0 +1,401 @@
+{
+	"knownSymbols": {
+		"getTestBed": [
+			{
+				"name": "getTestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"AppPage": [
+			{
+				"name": "AppPage",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/e2e/src/app.po.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"browser": [
+			{
+				"name": "browser",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"by": [
+			{
+				"name": "by",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"element": [
+			{
+				"name": "element",
+				"module": "protractor",
+				"isDefault": false
+			}
+		],
+		"enableProdMode": [
+			{
+				"name": "enableProdMode",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"environment": [
+			{
+				"name": "environment",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/environments/environment.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"AppRoutingModule": [
+			{
+				"name": "AppRoutingModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/app-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"PreloadAllModules": [
+			{
+				"name": "PreloadAllModules",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"CUSTOM_ELEMENTS_SCHEMA": [
+			{
+				"name": "CUSTOM_ELEMENTS_SCHEMA",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"Platform": [
+			{
+				"name": "Platform",
+				"module": "@ionic/angular",
+				"isDefault": false
+			}
+		],
+		"SplashScreen": [
+			{
+				"name": "SplashScreen",
+				"module": "@ionic-native/splash-screen/ngx",
+				"isDefault": false
+			}
+		],
+		"StatusBar": [
+			{
+				"name": "StatusBar",
+				"module": "@ionic-native/status-bar/ngx",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"RouteReuseStrategy": [
+			{
+				"name": "RouteReuseStrategy",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"IonicModule": [
+			{
+				"name": "IonicModule",
+				"module": "@ionic/angular",
+				"isDefault": false
+			}
+		],
+		"IonicRouteStrategy": [
+			{
+				"name": "IonicRouteStrategy",
+				"module": "@ionic/angular",
+				"isDefault": false
+			}
+		],
+		"BarcodeScanner": [
+			{
+				"name": "BarcodeScanner",
+				"module": "@ionic-native/barcode-scanner/ngx",
+				"isDefault": false
+			}
+		],
+		"IonicStorageModule": [
+			{
+				"name": "IonicStorageModule",
+				"module": "@ionic/storage",
+				"isDefault": false
+			}
+		],
+		"InAppBrowser": [
+			{
+				"name": "InAppBrowser",
+				"module": "@ionic-native/in-app-browser/ngx",
+				"isDefault": false
+			}
+		],
+		"File": [
+			{
+				"name": "File",
+				"module": "@ionic-native/file/ngx",
+				"isDefault": false
+			}
+		],
+		"EmailComposer": [
+			{
+				"name": "EmailComposer",
+				"module": "@ionic-native/email-composer/ngx",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"DataLocalService": [
+			{
+				"name": "DataLocalService",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/services/data-local.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Injectable": [
+			{
+				"name": "Injectable",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"Storage": [
+			{
+				"name": "Storage",
+				"module": "@ionic/storage",
+				"isDefault": false
+			}
+		],
+		"NavController": [
+			{
+				"name": "NavController",
+				"module": "@ionic/angular",
+				"isDefault": false
+			}
+		],
+		"Registro": [
+			{
+				"name": "Registro",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/models/registro.model.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab1PageRoutingModule": [
+			{
+				"name": "Tab1PageRoutingModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab1/tab1-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab1PageModule": [
+			{
+				"name": "Tab1PageModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab1/tab1.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"CommonModule": [
+			{
+				"name": "CommonModule",
+				"module": "@angular/common",
+				"isDefault": false
+			}
+		],
+		"FormsModule": [
+			{
+				"name": "FormsModule",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"ComponentFixture": [
+			{
+				"name": "ComponentFixture",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"MapaPageRoutingModule": [
+			{
+				"name": "MapaPageRoutingModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/mapa/mapa-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"MapaPage": [
+			{
+				"name": "MapaPage",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/mapa/mapa.page.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"OnInit": [
+			{
+				"name": "OnInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"AfterViewInit": [
+			{
+				"name": "AfterViewInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"ActivatedRoute": [
+			{
+				"name": "ActivatedRoute",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"MapaPageModule": [
+			{
+				"name": "MapaPageModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/mapa/mapa.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab1Page": [
+			{
+				"name": "Tab1Page",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab1/tab1.page.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab2Page": [
+			{
+				"name": "Tab2Page",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab2/tab2.page.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"TabsPageModule": [
+			{
+				"name": "TabsPageModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tabs/tabs.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"TabsPage": [
+			{
+				"name": "TabsPage",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tabs/tabs.page.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab2PageModule": [
+			{
+				"name": "Tab2PageModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab2/tab2.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"TabsPageRoutingModule": [
+			{
+				"name": "TabsPageRoutingModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tabs/tabs-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Tab2PageRoutingModule": [
+			{
+				"name": "Tab2PageRoutingModule",
+				"path": "/home/paco/Documentos/ionic curso/sección 10/06-qrscaner/src/app/pages/tab2/tab2-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		]
+	}
+}
